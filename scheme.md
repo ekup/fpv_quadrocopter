@@ -32,4 +32,4 @@
 
 ## Общая схема подключения компонентов
 
-будет позже...
+[<img src="images/scheme/main_scheme.png" width="800">](images/scheme/main_scheme.png)

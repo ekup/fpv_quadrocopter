@@ -2,7 +2,7 @@
 
 ## Крепление антенны видео передатчика
 
-[SMA Mount](3d/iflight-sma-mount.stl)
+[STL](3d/iflight-sma-mount.stl)
 
 Использован проект [Iflight SMA Mount XL5,XL6,XL7,XL8](https://www.thingiverse.com/thing:3726536) от [TrailandScale](https://www.thingiverse.com/trailandscale/designs).
 
