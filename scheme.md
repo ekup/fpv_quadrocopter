@@ -26,6 +26,10 @@
 
 [<img src="images/scheme/buzzer_scheme.png" width="800">](images/scheme/buzzer_scheme.png)
 
+## Esc
+
+[<img src="images/scheme/esc_scheme.png" width="800">](images/scheme/esc_scheme.png)
+
 ## Общая схема подключения компонентов
 
 будет позже...
