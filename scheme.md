@@ -12,10 +12,20 @@
 
 ## Передатчик видео
 
+[<img src="images/scheme/akk_scheme.png" width="800">](images/scheme/akk_scheme.png)
+
 ## Приемник
+
+[<img src="images/scheme/r9_mini_scheme.png" width="800">](images/scheme/r9_mini_scheme.png)
 
 ## Gps
 
+[<img src="images/scheme/gps_scheme.png" width="800">](images/scheme/gps_scheme.png)
+
 ## Бузер (пищалка)
 
+[<img src="images/scheme/buzzer_scheme.png" width="800">](images/scheme/buzzer_scheme.png)
+
 ## Общая схема подключения компонентов
+
+будет позже...
