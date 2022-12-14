@@ -22,7 +22,20 @@
 
 ## Защита двигателя
 
-Будет позже...
+- [STL1](3d/left_motor_guard.stl) - 2 шт
+- [STL2](3d/right_motor_guard.stl) - 2 шт
+
+Использован проект [XL7 v2 frame motor guard](https://www.thingiverse.com/thing:4860244) от [KingMouse](https://www.thingiverse.com/kingmouse/designs).
+
+Напечатал из PETG пластика.
+
+##  Крепление GPS
+
+[STL](3d/gps_shark.stl)
+
+Использован проект [Holder of Matek GPS M8Q-5883 for drone](https://www.thingiverse.com/thing:5235280) от [iBuilder](https://www.thingiverse.com/ibuilder/designs) (вариант 1).
+
+Напечатал из PETG пластика.
 
 ## Защита аккумулятора
 
