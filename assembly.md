@@ -17,3 +17,7 @@
 [<img src="images/assembly/4.png" width="800">](images/assembly/4.png)
 
 [<img src="images/assembly/5.png" width="800">](images/assembly/5.png)
+
+4. Решил поставить защиту моторов. Пришлось их откручивать. Длины комплектных винтов не хватило - заменил их на M3x10 и добавил шайбы, чтобы не продавливался пластик защиты.
+ 
+[<img src="images/assembly/6.png" width="800">](images/assembly/6.png)
