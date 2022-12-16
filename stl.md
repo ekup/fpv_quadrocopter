@@ -37,6 +37,14 @@
 
 Напечатал из PETG пластика.
 
+##  Крепление камеры
+
+[STL](3d/soporte_micro_xl7.stl)
+
+Использован проект [iFlight XL5 XL6 XL7 FPV Micro Cam Mount](https://www.thingiverse.com/thing:2844896) от [Atrapao](https://www.thingiverse.com/atrapao/designs).
+
+Напечатал из PETG пластика.
+
 ## Защита аккумулятора
 
 Будет позже...
