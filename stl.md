@@ -2,7 +2,9 @@
 
 ## Крепление антенны видео передатчика
 
-[STL](3d/iflight-sma-mount.stl)
+[STL](3d/iflight-sma-mount.stl) - первый вариант
+
+[STL](3d/iflight-sma-mount_new.stl) - доработанный вариант. Уменьшено расстояние от видеопередатчика до антенны чтобы кабель не был внатяг.
 
 Использован проект [Iflight SMA Mount XL5,XL6,XL7,XL8](https://www.thingiverse.com/thing:3726536) от [TrailandScale](https://www.thingiverse.com/trailandscale/designs).
 
