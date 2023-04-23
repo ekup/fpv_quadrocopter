@@ -49,4 +49,10 @@
 
 ## Защита аккумулятора
 
-Будет позже...
+Разработал сам.
+
+- [STL](3d/accum_protector.stl)
+
+- [SolidWorks](3d/accum_protector.sldprt)
+
+Напечатал из TPU пластика.
