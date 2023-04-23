@@ -19,3 +19,15 @@
 [Процесс сборки](assembly.md)
 
 [Настройка](settings.md)
+
+Фото в сборке:
+
+[<img src="images/readme/1.png" width="800">](images/readme/1.png)
+
+[<img src="images/readme/2.png" width="800">](images/readme/2.png)
+
+[<img src="images/readme/3.png" width="800">](images/readme/3.png)
+
+[<img src="images/readme/4.png" width="800">](images/readme/4.png)
+
+[<img src="images/readme/5.png" width="800">](images/readme/5.png)
